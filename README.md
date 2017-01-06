@@ -28,5 +28,5 @@ If you use this source code for academic purposes, please, cite:
 
 You can find a pre-print version at:
 
-https://sites.google.com/a/uji.es/vicente_palazon-gonzalez/
+https://sites.google.com/a/uji.es/palazon/
 
